@@ -1,8 +1,8 @@
 <?php
 
-namespace Breeze\Account\Context;
+namespace Breeze\Identity\Context;
 
-use Breeze\Account\Document\User;
+use Breeze\Identity\Document\User;
 use Doctrine\ODM\MongoDB\DocumentManager;
 
 /**

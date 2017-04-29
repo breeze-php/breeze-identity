@@ -1,11 +1,11 @@
 <?php
 
-namespace Breeze\Account\Mutation;
+namespace Breeze\Identity\Mutation;
 
 use Youshido\GraphQL\Config\Field\FieldConfig;
 use Youshido\GraphQL\Execution\ResolveInfo;
 use Youshido\GraphQL\Field\AbstractField;
-use Breeze\Account\Context\Register as RegisterContext;
+use Breeze\Identity\Context\Register as RegisterContext;
 use Youshido\GraphQL\Type\Scalar\StringType;
 
 /**

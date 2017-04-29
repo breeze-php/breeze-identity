@@ -1,6 +1,6 @@
 <?php
 
-namespace Breeze\Account;
+namespace Breeze\Identity;
 
 use Breeze\Doctrine\Factory\DoctrineContext;
 

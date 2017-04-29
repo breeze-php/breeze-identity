@@ -1,6 +1,6 @@
 <?php
 
-namespace Breeze\Account\Document;
+namespace Breeze\Identity\Document;
 
 use Doctrine\ODM\MongoDB\Mapping\Annotations\Document;
 use Doctrine\ODM\MongoDB\Mapping\Annotations\Id;
